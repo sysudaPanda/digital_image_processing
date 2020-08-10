@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>peopleset/people1.png</file>
+        <file>peopleset/people2.png</file>
+        <file>peopleset/people3.png</file>
+        <file>peopleset/people4.png</file>
+        <file>peopleset/people5.png</file>
+        <file>peopleset/people6.png</file>
+        <file>peopleset/people7.png</file>
+        <file>peopleset/people8.png</file>
+        <file>peopleset/people9.png</file>
+        <file>peopleset/people10.png</file>
+        <file>peopleset/people11.png</file>
+        <file>peopleset/people12.png</file>
+        <file>peopleset/people13.png</file>
+        <file>peopleset/people14.png</file>
+        <file>peopleset/people15.png</file>
+        <file>peopleset/people16.png</file>
+        <file>peopleset/people17.png</file>
+        <file>peopleset/people18.png</file>
+        <file>peopleset/people19.png</file>
+        <file>peopleset/people20.png</file>
+        <file>peopleset/people21.png</file>
+        <file>peopleset/people22.png</file>
+        <file>peopleset/people23.png</file>
+        <file>peopleset/people24.png</file>
+        <file>peopleset/people25.png</file>
+        <file>peopleset/people26.png</file>
+        <file>peopleset/people27.png</file>
+        <file>peopleset/people28.png</file>
+    </qresource>
+</RCC>

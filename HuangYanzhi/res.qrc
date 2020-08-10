@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imageicon/angel.png</file>
+        <file>imageicon/brother.png</file>
+        <file>imageicon/cp_boy.png</file>
+        <file>imageicon/deer.png</file>
+        <file>imageicon/friend_boy.png</file>
+        <file>imageicon/friend_girl.png</file>
+        <file>imageicon/gingerbread.png</file>
+        <file>imageicon/girl.png</file>
+        <file>imageicon/idou.png</file>
+        <file>imageicon/little_boy.png</file>
+        <file>imageicon/man.png</file>
+        <file>imageicon/my_boy.png</file>
+        <file>imageicon/my_girl.png</file>
+        <file>imageicon/snowman.png</file>
+        <file>imageicon/student_girl.png</file>
+        <file>imageicon/student.png</file>
+    </qresource>
+</RCC>
